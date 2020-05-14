@@ -4,5 +4,5 @@
 </a>
 
 <a href="https://github.com/jlfosterjr" target="_blank">
-  <img src="/images/GitHub-Mark-64px.png" alt="Click to see Jerry's GitHub profile." width="64" length="64" />
+  <img src="https://logodownload.org/wp-content/uploads/2019/08/github-logo-icon.png" alt="Click to see Jerry's GitHub profile." width="64" length="64" />
 </a>
