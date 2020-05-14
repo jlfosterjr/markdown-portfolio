@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Here are some of my qualifications:**
+
+1.  Item #1
+
+2.  Item #2
+
+3.  Item #3
+
+    a. Sub-item 3a
+    
+    b Sub-item 3b
+    
